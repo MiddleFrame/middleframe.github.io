@@ -35,6 +35,8 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-group-elements-1 {
+    height: auto;
+    margin-top: 180px;
     margin-bottom: 60px;
   }
 }
@@ -263,6 +265,14 @@
   margin: 18px auto 0;
 }
 
+.u-section-3 .u-btn-2 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  margin: 29px auto 0;
+}
+
 .u-section-3 .u-list-item-2 {
   background-image: none;
   box-shadow: 5px 5px 30px 0 rgba(0,0,0,0.15);
@@ -289,12 +299,20 @@
   margin: 16px 48px 0;
 }
 
-.u-section-3 .u-btn-2 {
+.u-section-3 .u-btn-3 {
   border-style: solid;
   text-transform: uppercase;
   letter-spacing: 0px;
   font-weight: 700;
   margin: 18px auto 0;
+}
+
+.u-section-3 .u-btn-4 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  margin: 29px auto 0;
 }
 
 @media (max-width: 1199px) {
