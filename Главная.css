@@ -327,6 +327,10 @@
   .u-section-3 .u-repeater-1 {
     grid-template-columns: 100%;
   }
+
+  .u-section-3 .u-btn-1 {
+    margin-top: 16px;
+  }
 }
 
 @media (max-width: 575px) {
